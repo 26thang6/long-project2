@@ -3,3 +3,5 @@ pandas
 scikit-learn
 surprise
 pickle
+pre_process
+cosine_similarity
